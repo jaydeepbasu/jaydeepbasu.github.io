@@ -1,9 +1,11 @@
 title: Jaydeep Basu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Test Automation engineer & Machine Learning professional. 
   <br><br>
-  Second description 
+  Currently I am working on some ML projects you can check my portfolio on the right.
+  <br><br>
+  Contact Me : jaydeep.basu1@gmail.com
   <br><br>
   <a href="https://www.linkedin.com/in/jaydeepbasu/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
